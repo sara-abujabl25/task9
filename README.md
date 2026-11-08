@@ -61,7 +61,7 @@ The application follows this data flow:
 
 ### 3. Loading State
 
-<img src="screenshote/loading.png" width="250" alt="Loading State">
+<img src="screenshote/loding.png" width="250" alt="Loading State">
 
 ## Learning Outcomes
 
